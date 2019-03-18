@@ -1,12 +1,1 @@
-10.174.126.152
-root
-avere2014
-10.16.32.9
-root
-kNZRZG5i
-10.22.32.22
-root
-E8048FRP
-10.26.32.14
-root
-q|3sV\qV
+removed the credes bcz of security reson.
