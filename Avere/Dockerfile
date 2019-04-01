@@ -1,5 +1,5 @@
 From python:2.7
-LABEL maintainer="Chinmay Nayak <ChinmayKumar.Nayak@LibertyMutual.com>"
+LABEL maintainer="Chinmay Nayak"
 LABEL description="This Dockerfile creates Avere MTA image"
 RUN mkdir /output
 WORKDIR /output
